@@ -1,6 +1,7 @@
 #pragma once
 
 #include "ggml-vulkan.h"
+#include <functional>
 
 #include <vulkan/vulkan_core.h>
 
